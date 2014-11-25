@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">aQueHoraEs</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="nombre">Nombre</string>
+    <string name="hora">Hora</string>
+    <string name="AddFoto">Añadir Foto</string>
+    <string name="cc">Identificacion</string>
+    <string name="perfil">Perfil</string>
+    <string name="tema">Tema</string>
+    <string name="director">Director</string>
+    <string name="fecha">Fecha</string>
+    <string name="lugarEvent">Salon</string>
+    <string name="nomEvent">Nombre</string>
+    <string name="clave">Clave</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="title_activity_error">ErrorActivity</string>
+    <string name="atras">ir atras</string>
+    <string name="acercaDe">Acerca De</string>
+    <string name="buscar">Buscar Envento</string>
+    <string name="RegEvent">Registrar Envento</string>
+    <string name="about">Proyecto desarrollado en clase de computacion movil por Camilo Orlando Morales estudiante de Tecnologia en Sistemas,en la Universidad Santiago de Cali</string>
+    <string name="eventos">Nombre Envento</string>
+    <string name="alert">Por favor registrarse</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+    <string name="title_activity_about">Acerca de</string>
+    <string name="title_activity_calendario">CalendarioActivity</string>
+    <string name="title_activity_reg_event">RegEventActivity</string>
+    <string name="title_activity_perfil">PerfilActivity</string>
+
+</resources>
